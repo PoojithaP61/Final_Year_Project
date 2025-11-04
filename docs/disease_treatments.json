@@ -1,0 +1,77 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "cause": "Xanthomonas campestris pv. vesicatoria (bacterium)",
+    "symptoms": "Small, water-soaked spots on leaves and fruits that enlarge and turn dark brown.",
+    "treatment": "Use disease-free seed, avoid overhead irrigation, apply copper-based bactericides."
+  },
+  "Pepper__bell___healthy": {
+    "cause": "None",
+    "symptoms": "Uniform green leaves without any lesions or discoloration.",
+    "treatment": "Maintain good field sanitation and balanced nutrition."
+  },
+  "Potato___Early_blight": {
+    "cause": "Alternaria solani (fungus)",
+    "symptoms": "Dark concentric rings on older leaves, yellowing, and leaf drop.",
+    "treatment": "Apply fungicides like chlorothalonil or mancozeb; rotate crops annually."
+  },
+  "Potato___healthy": {
+    "cause": "None",
+    "symptoms": "Healthy green leaves without any lesions or wilting.",
+    "treatment": "Maintain proper irrigation and avoid overcrowding."
+  },
+  "Potato___Late_blight": {
+    "cause": "Phytophthora infestans (oomycete fungus)",
+    "symptoms": "Dark brown to black lesions with pale green edges; rapid spread under humid conditions.",
+    "treatment": "Remove infected plants, use resistant varieties, and spray copper fungicides."
+  },
+  "Tomato_Target_Spot": {
+    "cause": "Corynespora cassiicola (fungus)",
+    "symptoms": "Circular brown spots with light centers on leaves; may cause leaf drop.",
+    "treatment": "Apply preventive fungicides such as azoxystrobin or chlorothalonil."
+  },
+  "Tomato_Tomato_mosaic_virus": {
+    "cause": "Tomato mosaic virus (ToMV)",
+    "symptoms": "Mottled light and dark green patches on leaves, leaf distortion, and stunted growth.",
+    "treatment": "Remove infected plants; disinfect tools; use resistant varieties."
+  },
+  "Tomato_Tomato_YellowLeaf_Curl_Virus": {
+    "cause": "Begomovirus transmitted by whiteflies",
+    "symptoms": "Upward curling and yellowing of young leaves, stunted plants.",
+    "treatment": "Control whiteflies using neem oil or insecticidal soap; use resistant cultivars."
+  },
+  "Tomato_Bacterial_spot": {
+    "cause": "Xanthomonas campestris pv. vesicatoria (bacterium)",
+    "symptoms": "Small, dark brown spots with yellow halos on leaves and fruit.",
+    "treatment": "Use certified seed, avoid handling wet plants, apply copper-based sprays."
+  },
+  "Tomato_Early_blight": {
+    "cause": "Alternaria solani (fungus)",
+    "symptoms": "Dark concentric rings on older leaves, often starting at lower canopy.",
+    "treatment": "Spray mancozeb or chlorothalonil, remove old crop debris."
+  },
+  "Tomato_healthy": {
+    "cause": "None",
+    "symptoms": "Bright green, uniform leaves without disease symptoms.",
+    "treatment": "Maintain healthy soil, proper irrigation, and regular monitoring."
+  },
+  "Tomato_Late_blight": {
+    "cause": "Phytophthora infestans (oomycete fungus)",
+    "symptoms": "Dark brown, water-soaked lesions on leaves and stems; white mold growth on underside.",
+    "treatment": "Apply copper fungicides, remove infected foliage, avoid overhead watering."
+  },
+  "Tomato_Leaf_Mold": {
+    "cause": "Passalora fulva (fungus)",
+    "symptoms": "Yellow spots on upper leaf surface with olive-green mold on underside.",
+    "treatment": "Improve air circulation; use fungicides containing chlorothalonil or mancozeb."
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "cause": "Septoria lycopersici (fungus)",
+    "symptoms": "Numerous small circular spots with dark borders and gray centers on leaves.",
+    "treatment": "Remove infected leaves, apply copper fungicides, and avoid water splashing."
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "cause": "Tetranychus urticae (mite)",
+    "symptoms": "Yellow speckling on leaves, fine webbing, and leaf bronzing.",
+    "treatment": "Spray miticides or neem oil; keep humidity high to reduce mite populations."
+  }
+}
